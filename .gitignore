@@ -1,0 +1,4 @@
+Gemfile.lock
+.*.un~
+minidumps/
+reports.db
