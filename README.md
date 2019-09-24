@@ -11,8 +11,6 @@ This is a little ruby web app for receiving the windows crash reports.
 ### running
 
 ```bash
-./create_db.sh
-
 bundle
 
 bundle exec rackup --help
